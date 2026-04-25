@@ -311,23 +311,12 @@ FastLanguageModel.for_inference(model)
 
 ## HF Blog
 
-The write-up is a markdown article located at `blog/sql-sensei.md` in this repo and published at [huggingface.co/blog/A9Rawat/sql-sensei](https://huggingface.co/blog/A9Rawat/sql-sensei).
+The write-up is a markdown article located at `blog/HFBlog.md` in this repo and published at [huggingface.co/blog/A9Rawat/sql-sensei](https://huggingface.co/blog/A9Rawat/sql-sensei).
 
 To publish your own HF blog post: write a markdown article, place it in your environment's code repository, and submit it through the HF blog portal. The article in this repo is the source of truth.
 
 ---
 
-## Hackathon
-
-Built for **OpenEnv Hackathon India 2026** — Theme 4: Self-Improvement.
-
-- [x] OpenEnv-compliant environment (latest release)
-- [x] Training script using Unsloth + HF TRL — runnable Colab notebook at `training/colab_training.ipynb`
-- [x] GRPO reward curves + before/after metrics
-- [x] Mini blog post on HF (`blog/sql-sensei.md` in this repo, published at HF Blog)
-- [x] YouTube video (< 2 min)
-- [x] Environment hosted on HF Spaces — live at `https://A9Rawat-sql-sensei.hf.space`
-- [x] Trained model weights on HF Hub
 
 ---
 
