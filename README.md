@@ -14,8 +14,7 @@
 *No labeled pairs. No supervised examples. Just a database, a reward signal, and stubbornness.*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1decl9L8u0pZrorSwu-D7PvubyqJ2pzcC?usp=sharing)
-[![HF Blog](https://img.shields.io/badge/🤗_Blog-Read_the_writeup-orange)](https://huggingface.co/blog/A9Rawat/sql-sensei)
-[![HF Model](https://img.shields.io/badge/🤗_Model-A9Rawat/sql--sensei--model-yellow)](https://huggingface.co/A9Rawat/sql-sensei-model)
+[![HF Blog](https://img.shields.io/badge/🤗_Blog-Read_the_writeup-orange)](https://drive.google.com/file/d/1GzaA_0ins1DM2TC5MIKbiS6rt4CXfE3V/view?usp=sharing)
 [![HF Space](https://img.shields.io/badge/🤗_Space-Live_Demo-blue)](https://huggingface.co/spaces/A9Rawat/sql-repair-env)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green)](LICENSE)
 [![T4 GPU](https://img.shields.io/badge/Trained_on-Colab_T4_(free)-orange)](https://colab.research.google.com)
@@ -270,7 +269,6 @@ model, tokenizer = FastLanguageModel.from_pretrained(
 FastLanguageModel.for_inference(model)
 ```
 
-👉 [A9Rawat/sql-sensei-model](https://huggingface.co/A9Rawat/sql-sensei-model)
 
 ---
 
@@ -302,18 +300,15 @@ FastLanguageModel.for_inference(model)
 
 ## Links
 
-- 📖 [Blog post](https://huggingface.co/blog/A9Rawat/sql-sensei) — full write-up hosted on HF (markdown file at `blog/sql-sensei.md` in this repo)
-- 🎮 [Live demo on HF Spaces](https://A9Rawat-sql-sensei.hf.space) — hit the environment API or try the Gradio UI
-- 🤗 [Trained model weights](https://huggingface.co/A9Rawat/sql-sensei-model) — Qwen2.5-1.5B + LoRA adapters, GRPO-trained
-- 🎥 [Video walkthrough](https://youtube.com/YOUR_LINK) — under 2 min demo
+- 📖 [Blog post](https://drive.google.com/file/d/1GzaA_0ins1DM2TC5MIKbiS6rt4CXfE3V/view?usp=sharing) 
+- 🎮 [Live demo on HF Spaces](https://huggingface.co/spaces/A9Rawat/sql-repair-env) 
+- 🎥 [Video walkthrough](https://youtube.com/YOUR_LINK) 
 
 ---
 
 ## HF Blog
 
-The write-up is a markdown article located at `blog/HFBlog.md` in this repo and published at [huggingface.co/blog/A9Rawat/sql-sensei](https://huggingface.co/blog/A9Rawat/sql-sensei).
-
-To publish your own HF blog post: write a markdown article, place it in your environment's code repository, and submit it through the HF blog portal. The article in this repo is the source of truth.
+The write-up is a markdown article located at `blog/HFBlog.md` in this repo.
 
 ---
 
