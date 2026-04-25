@@ -252,7 +252,7 @@ docker run -d -p 7860:7860 registry.hf.space/a9rawat-sql-sensei:latest
 
 The training notebook lives at `training/colab_training.ipynb` in this repo. You can also open it directly in Colab — it's fully self-contained and runs top to bottom with no local setup needed.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1decl9L8u0pZrorSwu-D7PvubyqJ2pzcC?usp=sharing)
 
 > **Note:** Make sure you're on a T4 GPU runtime (Runtime → Change runtime type → T4 GPU) before running. The notebook installs all dependencies in the first cell.
 
