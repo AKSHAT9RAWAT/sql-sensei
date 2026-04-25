@@ -119,7 +119,10 @@ The model didn't memorise this. It generalised. It learned what the broken patte
 That's what made this interesting. The database was the teacher.
 
 ---
+## Resulting Curves
+![Reward Curve](results_curve.png)
 
+---
 ## The thing I didn't expect
 
 I expected the reward hacking. Literature on RL is full of it — models that learned to exploit physics simulators by vibrating rapidly to gain height, game-playing agents that discovered invincibility glitches. A 1.5B parameter model finding `SELECT *` as a shortcut is, in context, completely mundane.
