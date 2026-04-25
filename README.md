@@ -13,10 +13,10 @@
 
 *No labeled pairs. No supervised examples. Just a database, a reward signal, and stubbornness.*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1decl9L8u0pZrorSwu-D7PvubyqJ2pzcC?usp=sharing)
 [![HF Blog](https://img.shields.io/badge/🤗_Blog-Read_the_writeup-orange)](https://huggingface.co/blog/A9Rawat/sql-sensei)
 [![HF Model](https://img.shields.io/badge/🤗_Model-A9Rawat/sql--sensei--model-yellow)](https://huggingface.co/A9Rawat/sql-sensei-model)
-[![HF Space](https://img.shields.io/badge/🤗_Space-Live_Demo-blue)](https://huggingface.co/spaces/A9Rawat/sql-sensei)
+[![HF Space](https://img.shields.io/badge/🤗_Space-Live_Demo-blue)](https://huggingface.co/spaces/A9Rawat/sql-repair-env)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green)](LICENSE)
 [![T4 GPU](https://img.shields.io/badge/Trained_on-Colab_T4_(free)-orange)](https://colab.research.google.com)
 
