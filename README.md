@@ -66,6 +66,10 @@ When I ran this, the model went from **0.60 → 0.99 on syntax repair** in 25 gr
 
 The `syntax_fix` number is the one worth paying attention to. **0.60 → 0.99 with no labeled data in 25 steps.** The execution signal is enough.
 
+<div align="center">
+  <img src="results_curve.png" width="700" alt="Reward curve over training steps"/>
+  <p><em>Reward curve across 65 gradient steps (Phase 1: syntax only → Phase 2: all tasks)</em></p>
+</div>
 ---
 
 ## Live environment
