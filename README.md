@@ -273,6 +273,11 @@ model, tokenizer = FastLanguageModel.from_pretrained(
 )
 FastLanguageModel.for_inference(model)
 ```
+## UI Design
+
+![Syntax Fix](UI1.png)
+![Schema Rewrite](UI2.png)
+![Logic Fix](UI3.png)
 
 
 ---
