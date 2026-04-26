@@ -309,6 +309,8 @@ FastLanguageModel.for_inference(model)
 - 🎥 [Video walkthrough](https://youtube.com/YOUR_LINK) 
 
 ---
+## Live Gradio Link
+https://2dacbe00d3ada0df92.gradio.live/
 
 ## HF Blog
 
