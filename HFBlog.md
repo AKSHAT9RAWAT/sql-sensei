@@ -1,4 +1,5 @@
-[View Hugging Face Blog](https://drive.google.com/file/d/1GzaA_0ins1DM2TC5MIKbiS6rt4CXfE3V/view?usp=sharing)
+View Blog here: [View Hugging Face Blog](https://drive.google.com/file/d/1GzaA_0ins1DM2TC5MIKbiS6rt4CXfE3V/view?usp=sharing)
+View Storytelling concept video here: [View Hugging Face Blog](https://youtube.com/shorts/Qnt7ex9i3uM?feature=share)
 
 
 # I Taught a Tiny AI to Fix SQL Without Showing It a Single Correct Answer
