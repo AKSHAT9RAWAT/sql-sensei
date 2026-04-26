@@ -321,6 +321,9 @@ FastLanguageModel.for_inference(model)
 ## Live Gradio Link
 https://2dacbe00d3ada0df92.gradio.live/
 
+## Youtube Link
+https://youtube.com/shorts/Qnt7ex9i3uM?feature=share
+
 ## HF Blog
 
 The write-up is a markdown article located at `blog/HFBlog.md` in this repo.
