@@ -1,3 +1,6 @@
+[View Hugging Face Blog](https://drive.google.com/file/d/1GzaA_0ins1DM2TC5MIKbiS6rt4CXfE3V/view?usp=sharing)
+
+
 # I Taught a Tiny AI to Fix SQL Without Showing It a Single Correct Answer
 
 *And then it tried to cheat. Twice.*
@@ -157,7 +160,7 @@ And I'm curious what happens at 7B. Does reward hacking happen faster or slower 
 
 ---
 
-## Try it
+## Your Next Try
 
 The model is on the Hub. The environment is hosted on HF Spaces. The training notebook runs top-to-bottom on a free T4 with no setup.
 
@@ -166,7 +169,5 @@ If you paste a broken query into the Gradio demo, it'll try to fix it and you'll
 If you find a case where it reward-hacks in a way I haven't seen yet — I want to know.
 
 ---
-
-*Model: [A9Rawat/sql-repair-grpo](https://huggingface.co/A9Rawat/sql-repair-grpo) · Environment: [A9Rawat/sql-sensei](https://huggingface.co/spaces/A9Rawat/sql-sensei) · Notebook: [Open in Colab](https://colab.research.google.com/drive/YOUR_LINK)*
 
 *Built with Unsloth · TRL · Qwen2.5-1.5B · Hugging Face*
