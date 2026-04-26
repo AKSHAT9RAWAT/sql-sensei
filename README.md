@@ -276,8 +276,11 @@ FastLanguageModel.for_inference(model)
 ## UI Design
 
 ![Syntax Fix](UI1.png)
+*Figure 1: Syntax Fix*
 ![Schema Rewrite](UI2.png)
+*Figure 2: Schema Rewrite*
 ![Logic Fix](UI3.png)
+*Figure 3: Logic Fix*
 
 
 ---
