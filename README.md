@@ -16,6 +16,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1decl9L8u0pZrorSwu-D7PvubyqJ2pzcC?usp=sharing)
 [![HF Blog](https://img.shields.io/badge/🤗_Blog-Read_the_writeup-orange)](https://drive.google.com/file/d/1GzaA_0ins1DM2TC5MIKbiS6rt4CXfE3V/view?usp=sharing)
 [![HF Space](https://img.shields.io/badge/🤗_Space-Live_Demo-blue)](https://huggingface.co/spaces/A9Rawat/sql-repair-env)
+[![HF Model](https://img.shields.io/badge/🤗_Space-Live_Demo-blue)](https://huggingface.co/A9Rawat/sql-repair-grpo)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green)](LICENSE)
 [![T4 GPU](https://img.shields.io/badge/Trained_on-Colab_T4_(free)-orange)](https://colab.research.google.com)
 
