@@ -57,17 +57,17 @@ When I ran this, the model went from **0.60 → 0.99 on syntax repair** in 25 gr
 
 | Task | Before | After Phase 1 | After Phase 2 | Δ |
 |---|---|---|---|---|
-| `syntax_fix` | 0.60 | **1.00** | 0.99 | **+0.39** |
+| `syntax_fix` | 0.598 | **0.99** | **0.99** | **+0.39** |
 | `logic_fix` | 0.99 | 0.99 | 0.99 | +0.00 |
-| `schema_rewrite` | 0.01 | 0.10 | 0.01 | — |
-| **overall** | 0.53 | 0.70 | 0.66 | **+0.13** |
+| `schema_rewrite` | 0.01 | 0.01 | 0.3.44 | **+0.334** |
+| **overall** | 0.533 | 0.663 | 0.775 | **+0.242** |
 
 `logic_fix` was already near-ceiling — the base model handles semantic fixes reasonably well out of the box. `schema_rewrite` is the unsolved problem (see [What's next](#whats-next)).
 
 The `syntax_fix` number is the one worth paying attention to. **0.60 → 0.99 with no labeled data in 25 steps.** The execution signal is enough.
 
 <div align="center">
-  <img src="results_curve.png" width="700" alt="Reward curve over training steps"/>
+  <img src="curve.png" width="700" alt="Reward curve over training steps"/>
   <p><em>Reward curve across 65 gradient steps (Phase 1: syntax only → Phase 2: all tasks)</em></p>
 </div>
 ---
